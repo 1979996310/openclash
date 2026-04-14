@@ -1,9 +1,9 @@
 # Emby通用反代，限cn
-DOMAIN-FULL,fd.dirige.de5.net
-DOMAIN-FULL,auto.embys.dpdns.org
+DOMAIN,fd.dirige.de5.net
+DOMAIN,auto.embys.dpdns.org
 
 # okemby专用反代，限cn
-DOMAIN-FULL,emby.axuitomo.ggff.net
+DOMAIN,emby.axuitomo.ggff.net
 
 # 折纸
 DOMAIN-SUFFIX,zhezhi.art
