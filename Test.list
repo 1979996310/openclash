@@ -51,7 +51,7 @@ DOMAIN-SUFFIX,null-addr.biz
 DOMAIN-SUFFIX,null-addr.info
 DOMAIN-SUFFIX,addr.tools
 
-DOMAIN,us.ip111.cn
+DOMAIN-SUFFIX,ip111.cn
 DOMAIN-SUFFIX,ifconfig.me
 DOMAIN-SUFFIX,ip125.com
 DOMAIN-SUFFIX,skk.moe
