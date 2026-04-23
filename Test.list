@@ -1,4 +1,5 @@
 IP-CIDR,142.251.215.0/24,no-resolve
+
 # 自维护
 DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,chinamobile.com
