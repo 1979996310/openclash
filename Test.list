@@ -3,6 +3,8 @@ IP-CIDR,142.251.215.0/24,no-resolve
 # 自维护
 DOMAIN-SUFFIX,ooklaserver.net
 DOMAIN-SUFFIX,chinamobile.com
+DOMAIN-SUFFIX,com.hk
+DOMAIN-SUFFIX,misaka.one
 DOMAIN-SUFFIX,a573.net
 # 原生
 DOMAIN-SUFFIX,yalala.com
